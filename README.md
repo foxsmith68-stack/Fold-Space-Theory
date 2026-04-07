@@ -55,3 +55,9 @@ Pull requests should be clear, focused, and well‑reasoned.
 
 Contact
 For questions, discussion, or collaboration inquiries, please open an issue in the repository.
+
+##Theory Documents
+
+**Full PDF:** [Fold-Space-Theory.pdf](Fold-Space-Theory.pdf)
+**Web Version (Markdown):** [Fold-Space-Theory.md](Fold-Space-Theory.md)
+
