@@ -58,6 +58,6 @@ For questions, discussion, or collaboration inquiries, please open an issue in t
 
 ##Theory Documents
 
-**Full PDF:** [Fold-Space-Theory.pdf](Fold-Space-Theory.pdf)
+**Full PDF:** [Fold_Space_Theory.pdf](Fold-Space-Theory.pdf)
 **Web Version (Markdown):** [Fold-Space-Theory.md](Fold-Space-Theory.md)
 
