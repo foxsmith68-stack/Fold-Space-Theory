@@ -2,6 +2,17 @@ Fold‑Space Theory
 A speculative physics framework modeling the universe as a powered pocket dimension.
 Fold‑Space Theory, sometimes referred to as Trans‑Dimensionalism, explores how non‑Euclidean pocket‑dimensional regions can be embedded inside ordinary Euclidean boundaries, allowing interior volume to exceed exterior size.
 
+A Little History
+I began working on this idea in 1982–1983, when I was in junior high. I told my teacher I would figure out how a small object could be larger on the inside than on the outside. The earliest form of the theory started with a simple equation:
+
+𝑓(𝑥)=𝑏+𝑥−𝑝
+
+Over the decades, that seed evolved into the modern Fold‑Space Functional:
+
+𝑓(𝑥)=𝑏+𝑥ln⁡(𝑃)−Φ
+
+The structure remained the same, but the interpretation matured into a full framework for pocket‑dimensional geometry.
+
 Overview
 Fold‑Space Theory is an original speculative‑physics framework proposing that our universe is a powered pocket dimension embedded within a higher‑dimensional bulk. The theory unifies several cosmological behaviors — expansion, dark energy, dark matter, and cyclic collapse — under a single geometric and energetic model.
 This repository serves as the official, timestamped publication of the theory. It includes the core equations, conceptual framework, and engineering implications for future high‑energy civilizations.
